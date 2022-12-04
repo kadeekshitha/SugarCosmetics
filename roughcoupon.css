@@ -1,0 +1,22 @@
+#main{
+    text-align: center;
+    background-color: orange;
+    height:800px;
+    
+}
+
+#coupon{
+    width: 400px;
+    height:200px;
+    background-color: gray;
+    margin-left: 35%;
+    position: absolute;
+    z-index: 100;
+    margin-top:-60%;
+    visibility: hidden;
+}
+
+.imgmain{
+    width:75%;
+    height: 300px;
+}
